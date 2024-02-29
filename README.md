@@ -9,5 +9,5 @@
 
                               /*Group Members: 甘冀韬，王昊宇，李沐晟*/
 
-                                     /*All Rights Reserved./*
+                                     /*All Rights Reserved.*/
 ```
